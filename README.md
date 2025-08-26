@@ -29,7 +29,12 @@ I have worked on projects across **healthcare, e-commerce, SaaS, and enterprise 
 ## 📊 GitHub Stats  
 ![Ayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaz-qaiser&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz-qaiser&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ayaz-qaiser&theme=tokyonight)  
+
+---
+
+## 🚀 Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=dotnet,react,nodejs,nestjs,angular,nextjs,supabase,python,fastapi,mongodb,postgresql,azure,ts,js)
+
 
 ---
 
