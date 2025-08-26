@@ -28,7 +28,7 @@ I have worked on projects across **healthcare, e-commerce, SaaS, and enterprise 
 
 ## 📊 GitHub Stats  
 ![Ayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaz-qaiser&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz-qaiser&layout=compact&theme=tokyonight)  
+
 
 ---
 
