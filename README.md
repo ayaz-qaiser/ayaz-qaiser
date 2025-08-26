@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Ayaz  
 
-<!--
-**ayaz-qaiser/ayaz-qaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Technical Consultant | Full Stack Developer | AI Enthusiast  
 
-Here are some ideas to get you started:
+- 💻 I work with **.NET, React, Node.js, NestJS, Angular, Next.js, Supabase, MongoDB, PostgreSQL, Python, FastAPI, AI Agents, and LangChain**  
+- 🌍 Based in Dubai, UAE  
+- 🎯 Passionate about building SaaS and AI-powered products  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![Ayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaz-qaiser&show_icons=true&theme=tokyonight)
+
+### 🚀 Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=dotnet,react,nodejs,nestjs,angular,nextjs,supabase,python,fastapi,mongodb,postgresql,azure,ts,js)
+
+---
+
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayazqaiser/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaz-qaiser)
+
