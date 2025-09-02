@@ -43,13 +43,6 @@ I have worked on projects across **healthcare, e-commerce, SaaS, and enterprise 
 - [**CV Circle**](https://cv-circle.vercel.app/) – A modern CV builder with Supabase backend and PostgreSQL.  
 - [**AI Document Processing**](https://xevengpt.com/) – AI-powered solution to extract, query, and manage data from PDFs.  
 
-
----
-
-## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayazqaiser/)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaz-qaiser)  
-
 ---
 
 ⭐️ *Always excited to collaborate on innovative projects, especially around SaaS, automation, and AI.*
